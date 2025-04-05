@@ -41,7 +41,10 @@
 ⭐️ From [IAftabRehman](https://github.com/IAftabRehman)
 
 <br>
-<p align="center">
+<br>
+<br>
+<br>
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=IAftabRehman&color=blueviolet" alt="Profile views" />
 </p>
 
