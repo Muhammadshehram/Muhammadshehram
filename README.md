@@ -40,6 +40,8 @@
 <br>
 ⭐️ From [IAftabRehman](https://github.com/IAftabRehman)
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=IAftabRehman&color=blueviolet)
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IAftabRehman&color=blueviolet" alt="Profile views" />
+</p>
 
