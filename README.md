@@ -39,7 +39,6 @@
 
 <br>
 ⭐️ From [IAftabRehman](https://github.com/IAftabRehman)
-<h3 align="center">Flutter Developer</h3>
 
 <br>
 <br>
