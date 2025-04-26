@@ -1,5 +1,3 @@
-
-
  <h1 align="center">Hi 👋, I'm Aftab Ur Rehman</h1>
 
  - 🔭 I’m currently working on Flutter
