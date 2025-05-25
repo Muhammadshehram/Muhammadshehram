@@ -30,7 +30,7 @@
 ### 🧰 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,postman,github,androidstudio,pr&perline=5)](https://skillicons.dev)
 
-![Aftab UrRehman GitHub stats](https://github-readme-stats.vercel.app/api?username=IAftabRehman&show_icons=true&theme=dark)
+![Aftab UrRehman GitHub stats](https://github-readme-stats.vercel.app/api?username=IAftabRehman&show_icons=true&theme=dark&cache_seconds=10)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAftabRehman&theme=dark)
 
